@@ -22,6 +22,7 @@ class Cart extends Component {
                                     <CartColumns />
                                     <CartList value={value} />
                                     <CartTotals  value={value}  />
+                                    <h4>hellow </h4>
                                 </React.Fragment>
                             );
                         } else{
